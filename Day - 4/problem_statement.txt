@@ -1,0 +1,13 @@
+Problem Solving for the day - 05.07.2025 - Week End Programs 
+
+
+ 1.Write a Java program to   if a number is even or odd.
+ 2.⁠ ⁠Write a Java program to find the largest of three numbers
+ 3.⁠ ⁠Write a Java program to check if a number is prime.
+ 4.⁠ ⁠Write a Java program to print the Fibonacci series up to n terms.                                 
+ 5.⁠ ⁠Write a Java program to check if a number is a palindrome.
+ 6.⁠ ⁠Write a Java program to find the factorial of a number.
+ 7 .Write a Java program to check if a year is a leap year.                                         
+ 8.⁠ ⁠Write a Java program to check if a character is a vowel or consonant. 
+ 9.⁠ ⁠Write a Java program to check if a person is eligible to vote.
+ 10.⁠ ⁠Write a Java program to check whether a number is divisible by 5 and 11.
