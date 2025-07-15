@@ -1,0 +1,9 @@
+Problem Solving for the day - 02.07.2025 
+
+Given two integers M and N, calculate the product  of all odd integers from M and N inclusive.if M is greater than N , return 1 or display an appropriate message
+
+Test Case 1: M = 3, N =7  
+
+Test Case 02 : M = 2, N = 5
+
+Test Case 03 : M = 10, N = 6
