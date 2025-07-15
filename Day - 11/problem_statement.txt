@@ -1,0 +1,15 @@
+Revision for the day - 14.07.2025
+
+A fruit vendor stacks fruits in a basket one over another — like a stack. Fruits are added (pushed) to the basket and removed (popped) from the top only. The vendor wants a software system to help manage the fruit stack.
+
+Design a Java program to simulate a Fruit Basket using a Stack data structure with the following operations:
+
+addFruit(String fruit) – Add a fruit to the top of the basket.
+
+removeFruit() – Remove the top fruit from the basket.
+
+peekTopFruit() – Show the fruit at the top without removing it.
+
+isBasketEmpty() – Check if the basket is empty.
+
+displayFruits() – Display all fruits from top to bottom.
