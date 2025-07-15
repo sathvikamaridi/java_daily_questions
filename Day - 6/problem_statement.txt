@@ -1,0 +1,22 @@
+Problem Solving for the day - 08.07.2025
+
+The unit wraps chocolates and places them into a conveyor belt queue modelled using a singly linked list.
+
+1.⁠ ⁠Chocolates produced manually by workers are added at the beginning of the conveyor belt.
+
+2.⁠ ⁠Chocolates produced by machines are added at the end of the conveyor belt.
+
+You need to create a singly linked list structure to support:
+
+ - Insert at beginning (manual chocolate addition).
+
+ - Insert at end (machine chocolate addition).
+
+A function to display all chocolates in the current belt order.
+
+InsertAtEnd("DairyMilk")     // Machine added
+InsertAtBeginning("Perk")    // Worker added
+InsertAtEnd("KitKat")        // Machine added
+InsertAtBeginning("5Star")   // Worker added
+
+Display() - Display Details
