@@ -1,0 +1,25 @@
+Problem Solving for the day - 09.07.2025
+
+Flight Schedule Manager for an airline. Each flight is represented by a Flight node containing:
+
+1.Flight number
+
+2.Destination
+
+3.Departure time
+
+Use a Doubly Linked List to manage the schedule. The system must support the following operations:
+
+•⁠  ⁠Add a new flight at the beginning of the schedule.
+
+•⁠  ⁠Add a new flight at the end of the schedule.
+
+•⁠  ⁠Add a new flight at a specific position.
+
+•⁠  ⁠Delete a flight from the beginning.
+
+•⁠  ⁠Delete a flight from the end.
+
+•⁠  ⁠Delete a flight from a specific position.
+
+•⁠  ⁠Display the current flight schedule (from beginning to end).
