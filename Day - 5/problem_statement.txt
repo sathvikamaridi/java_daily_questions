@@ -1,0 +1,13 @@
+Problem Solving for the day - 07.07.2025  
+
+Given a number ‘N’, find out the sum of the first N natural numbers.
+
+Test Case 1:
+
+Input: N=5
+Output: 15
+
+Test Case 2:
+
+Input: N=6
+Output: 21
