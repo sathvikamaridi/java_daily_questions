@@ -1,0 +1,13 @@
+Revision for the day - 15.07.2025
+
+At a busy train station, passengers are queued up to board the train. However, senior citizens (age 60 and above) should be allowed to board first, regardless of when they entered the queue. Others follow the FIFO order.
+
+You are to build a Queue Management System that supports:
+
+1.Add a passenger (name, age, ticketType)
+
+2.Board the next passenger (Senior first, then others in order)
+
+3.Display passengers in both queues
+
+4.Check if all queues are empty
