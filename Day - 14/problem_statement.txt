@@ -1,0 +1,19 @@
+Problem Solving for the Day - 17.07.2025
+
+At an international airport, two separate terminals display upcoming flight destinations. Sometimes, the same city might be displayed in both terminals, and the operations team wants to check if any common characters exist between the names displayed on the two terminals.
+
+Write a Java program that takes two city names (one from each terminal) as input and prints all unique common characters between them (case-insensitive), if any. If no common characters exist, print "No common characters".
+
+Test Case :
+
+Input 
+
+Enter Terminal A city name:
+Chennai
+
+Enter Terminal B city name:
+Chicago
+
+Output
+
+Common characters: [a, c, h, i]
