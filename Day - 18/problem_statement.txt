@@ -1,0 +1,21 @@
+Problem Solving for the day - 22.07.2025*
+
+You are building a small Java program to manage the passenger list of a train journey between cities. The train stops at multiple stations, and at each station, passengers board and leave the train.
+
+Your job is to simulate the passenger list using Java Collections, specifically the List interface (like ArrayList)
+
+*Write a Java program to do the following:*
+
+1.Add initial passengers before the journey starts.
+
+2.Add new passengers at different stations.
+
+3.Remove passengers who get off the train.
+
+4.Check if certain passengers are on the train.
+
+5.Print all passengers in alphabetical order.
+
+6.Clone the list to maintain a backup.
+
+7.Clear the list after the final station.
