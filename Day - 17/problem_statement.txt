@@ -1,0 +1,11 @@
+Problem Solving for the day - 21.07.2025
+
+Given an array of size n, find the element that appears more than ⌊ n/2 ⌋ times. Assume that the array always has a majority element.
+
+Input:
+
+arr = [2, 2, 1, 1, 1, 2, 2]
+
+Output:
+
+2
