@@ -1,0 +1,9 @@
+Problem Solving for the day - 18.07.2025
+
+You are given an array of integers. Return the length of the longest subarray with a sum equal to zero.
+
+Test Case :
+
+Input: [1, 2, -3, 3, -1, 2, -2]
+
+Output: 3
