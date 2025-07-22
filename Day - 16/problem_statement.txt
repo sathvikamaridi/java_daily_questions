@@ -1,0 +1,9 @@
+Problem Solving for the day - 19.07.2025
+
+Reverse a singly linked list and return the new head.
+
+*Test Case:*
+
+Input: 1 → 2 → 3 → 4 → 5
+
+Output: 5 → 4 → 3 → 2 → 1
