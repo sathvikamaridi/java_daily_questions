@@ -1,0 +1,13 @@
+Problem Solving for the day  - 25.07.2025
+
+*Remove Adjacent Duplicates in String (Using Stack)*
+
+*You are given a string s. The task is to remove all adjacent duplicates in the string using a stack. Repeat this process until there are no more adjacent duplicates.*
+
+Input :
+
+String s = "abbaca";
+
+Output : 
+
+"ca"
