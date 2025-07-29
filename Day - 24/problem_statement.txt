@@ -1,0 +1,15 @@
+Problem Solving for the day  - 29.07.2025
+
+Given a Binary Search Tree (BST) and a target node value, write a program to find the inorder successor of that node. The inorder successor of a node is the node with the smallest key greater than the target node’s key.
+
+Input:
+
+        20
+       /  \
+     10    30
+     / \     \
+    5  15     40
+
+Output :
+
+Inorder Successor  : Inorder Successor of 15 is: 20
