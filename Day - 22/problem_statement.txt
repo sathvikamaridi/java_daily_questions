@@ -1,0 +1,16 @@
+Problem Solving for the day  - 26.07.2025
+
+1.You are given a singly linked list that may or may not contain a loop.
+
+Write a Java function to detect the loop and remove it, restoring the linked list to a linear structure.
+
+Input :
+
+Linked List:
+1 → 2 → 3 → 4 → 5 → 3 (loop back to node 3)
+
+Output : 
+
+Loop detected and removed.
+Final Linked List:
+1 → 2 → 3 → 4 → 5
