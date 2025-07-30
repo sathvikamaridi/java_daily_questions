@@ -1,0 +1,11 @@
+Problem Solving for the day  - 30.07.2025
+
+Given a string, find the first non-repeating character in it and return its index. If it doesn’t exist, return -1.
+
+Input :
+
+s = "techstack"
+
+Output :
+
+First non-repeating character is 'e' at index 1
