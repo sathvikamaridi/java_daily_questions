@@ -1,0 +1,16 @@
+Problem Solving for the day  - 02.08.2025
+
+1.Convert a Binary Tree to Doubly Linked List In-Order
+
+Given a binary tree, convert it to a doubly linked list using in-order traversal. The left pointer of a tree node acts as the previous node, and the right acts as the next.
+
+Input :
+
+      10
+     /  \
+    5   15
+
+
+Output (DLL):
+
+5 ⇄ 10 ⇄ 15
