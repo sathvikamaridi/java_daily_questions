@@ -1,0 +1,13 @@
+Problem Solving for the day  - 31.07.2025
+
+Given an integer array nums, rotate the array to the right by k steps, where k ≥ 0.
+
+Rotation to the right means:
+
+Each element is shifted k positions to the right.
+
+Elements that "fall off" the end wrap around to the beginning.
+
+Input : nums = [1, 2, 3, 4, 5, 6, 7], k = 3
+
+output : [5, 6, 7, 1, 2, 3, 4]
