@@ -1,0 +1,10 @@
+Problem Solving for the day  - 04.08.2025
+
+1.Given coins of different denominations and a total amount, return the minimum number of coins needed to make up that amount. If it is not possible, return -1.
+
+Input :
+
+coins = [1, 2, 5]  
+amount = 11  
+
+Output: 3
