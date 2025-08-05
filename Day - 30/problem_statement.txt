@@ -1,0 +1,9 @@
+Problem Solving for the day - 05.08.2025 - Corporate questions
+
+1.Subarray with Given Sum
+
+Problem: Given an array and a target sum, find all subarrays that sum up to the target.
+
+Input: arr = {1, 2, 3, 4, 5}, sum = 9  
+
+Output: [2, 3, 4], [4, 5]
