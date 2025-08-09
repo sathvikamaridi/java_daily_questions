@@ -1,0 +1,21 @@
+Problem Solving for the day - 09.08.2025 - Corporate questions
+
+Longest Palindromic Substring
+
+Problem: Given a string s, return the longest palindromic substring.
+
+Example 01 :
+
+Input:
+s = "babad"
+Output:
+"bab"
+(or "aba")
+
+
+Example 02 :
+
+Input:
+s = "cbbd"
+Output:
+"bb"
