@@ -1,0 +1,25 @@
+Problem Solving for the day - 11.08.2025 - Corporate questions
+
+You are given an integer array nums and an integer k.Find the length of the longest contiguous subarray (not equal to the entire array) whose sum is divisible by k.
+
+Test Case 01 :
+
+Input :
+
+nums = [2, -2, 2, -4, 6, 8, 3]  
+k = 4
+
+Output :
+
+5
+
+Test case 02 :
+
+Input :
+
+nums = [5, 0, 2, -2, 1, 6]  
+k = 3
+
+Output :
+
+4
