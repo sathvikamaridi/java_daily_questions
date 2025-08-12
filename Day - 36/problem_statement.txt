@@ -1,0 +1,14 @@
+Problem Solving for the day - 12.08.2025 - Corporate questions
+
+Given n non-negative integers representing the height of bars, compute how much water it can trap after raining.
+
+Test case 01 :
+
+height = [0,1,0,2,1,0,1,3,2,1,2,1]
+Output: 6
+
+Test case 02 :
+
+height = [1,0,2,1,0,1,3,2,1,2,1]
+
+Output : 8
