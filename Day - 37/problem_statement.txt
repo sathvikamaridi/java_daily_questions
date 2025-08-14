@@ -1,0 +1,19 @@
+Problem Solving for the day - 13.08.2025 - Corporate questions
+
+Maximum Sum of Two Non-Overlapping Subarrays
+
+You are given an integer array nums and two integers L and M.Find the maximum sum of two non-overlapping subarrays with lengths L and M.
+
+Test Case 01 :
+
+nums = [0,6,5,2,2,5,1,9,4]
+L = 1
+M = 2
+Output: 20
+
+Test Case 02 :
+	
+nums = [3,8,1,3,2,1,8,9,0]
+L = 3
+M = 2
+Output: 29
