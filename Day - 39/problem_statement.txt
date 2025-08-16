@@ -1,0 +1,25 @@
+Problem Solving for the day - 15.08.2025 - Corporate questions
+
+In a train scheduling system, each station is stored in a doubly linked list.If a route change occurs, you need to rotate the list to the left by k nodes, meaning the first k stations will move to the end while maintaining order.
+
+Test case 01 :
+
+Input :
+
+A ⇄ B ⇄ C ⇄ D ⇄ E ⇄ F  
+k = 2
+
+
+output :
+
+C ⇄ D ⇄ E ⇄ F ⇄ A ⇄ B
+
+
+Test case 02 :
+
+Input :
+
+Route: 1 ⇄ 2 ⇄ 3 ⇄ 4 ⇄ 5  
+k = 4
+
+Output: 5 ⇄ 1 ⇄ 2 ⇄ 3 ⇄ 4
