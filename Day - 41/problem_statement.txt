@@ -1,0 +1,23 @@
+Problem Solving for the day - 18.08.2025 - Corporate questions
+
+Check if Two Circular Linked Lists are Identical
+
+Write a function to check if two circular linked lists contain the same sequence of nodes.
+
+Test Case 1:
+
+Input:
+
+List1: 1 → 2 → 3 → 4 (circular)
+List2: 3 → 4 → 1 → 2 (circular)
+
+Output: Identical
+
+Test Case 2:
+
+Input:
+
+List1: A → B → C → D (circular)
+List2: B → C → A → D (circular)
+
+Output: Not Identical
