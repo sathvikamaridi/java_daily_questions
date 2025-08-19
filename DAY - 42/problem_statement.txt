@@ -1,0 +1,20 @@
+Problem Solving for the day - 19.08.2025 - Corporate questions
+
+Check if Two Strings are Rotations of Each other.Write a program to check if one string is a rotation of another.
+
+Test Case 01:
+
+Input: 
+
+s1 = "ABCD", 
+s2 = "CDAB"
+
+Output: true
+
+Test Case 02 :
+
+Input:
+s1 = "ABCD"
+s2 = "ACBD"
+
+Output: false
