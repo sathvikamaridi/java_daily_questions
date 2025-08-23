@@ -1,0 +1,16 @@
+Problem Solving for the day - 23.08.2025 - Corporate questions
+
+Diameter of a Binary Tree
+
+Find the length of the longest path between any two nodes in a tree.
+
+Input :
+
+       1
+      / \
+     2   3
+    / \
+   4   5
+
+
+Output : 3
