@@ -1,0 +1,19 @@
+Problem Solving for the day - 20.08.2025 - Corporate questions
+
+Check if a String has All Unique Characters (without using extra data structures).You should not use additional DS like HashSet, HashMap, or boolean arrays.
+
+Test Case 01
+Input: "abcdef"
+Output: true
+
+Test Case 02
+Input: "hello"
+Output: false
+
+Test Case 03
+Input: ""
+Output: true
+
+Test Case 04 
+Input: "aA"
+Output: true
