@@ -1,0 +1,17 @@
+Problem Solving for the day - 28.08.2025 - Corporate questions
+
+Next Greater Element 
+
+For each element in the given array, find the next greater element (NGE) to its right.If no greater element exists, return -1.
+
+Test Case 01:
+
+Input: [4,5,2,25]
+
+Output : [5,25,25,-1]
+
+Test Case 02 :
+
+Input:[13,7,6,12]
+
+Output:[-1,12,12,-1]
