@@ -1,0 +1,23 @@
+Problem Solving for the day - 29.08.2025 - Corporate questions
+
+Given an array of strings, find the longest common prefix shared among them.
+
+If no common prefix exists, return an empty string "".
+
+Test Case 1 :
+
+Input: ["flower","flow","flight"]
+
+Output: "fl" 
+
+Test Case 2 :
+
+Input: ["dog","racecar","car"]
+
+Output: "" 
+
+Test Case 3 :
+
+Input: ["interspecies","interstellar","interstate"]
+
+Output: "inters
