@@ -1,0 +1,22 @@
+Problem Solving for the day - 01.09.2025 - Corporate questions
+
+Given a string s, return the longest substring that appears at least twice in s.
+
+If multiple answers exist, return any one of them.
+
+If no duplicate substring exists, return an empty string "".
+
+Test Case 01 :
+
+Input: "banana"
+Output: "ana"
+
+Test Case 02 :
+
+Input : abcdef
+Output : ""
+
+Test Case 03 :
+
+Input : ababa
+Output : aba
