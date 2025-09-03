@@ -1,0 +1,17 @@
+Problem Solving for the day - 03.09.2025 - Corporate questions
+
+Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that:
+
+i != j != k
+
+nums[i] + nums[j] + nums[k] == 0
+
+Test Case 01:
+
+Input: nums = [-1,0,1,2,-1,-4]
+Output: [[-1,-1,2], [-1,0,1]]
+
+Test Case 02 :
+
+Input: nums = [0,1,1]
+Output: []
