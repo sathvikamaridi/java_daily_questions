@@ -1,0 +1,27 @@
+Problem Solving for the day - 05.09.2025 - Corporate questions
+
+Remove Duplicate Characters
+
+A railway reservation system doesn’t allow duplicate letters in a train code.
+
+Write a program to remove duplicate characters from a string.
+
+Test Case 01
+
+Input
+
+trainCode = "EXPRESS"
+
+Output 
+
+EXPRES
+
+Test Case 02 
+
+Input 
+
+trainCode = "RAILWAY123RAIL"
+
+Output 
+
+RAILWY123
