@@ -1,0 +1,23 @@
+Problem Solving for the day - 04.09.2025 - Corporate questions
+
+Given an array of integers nums and an integer k, return the total number of subarrays whose sum equals k.
+
+Test Case 01 :
+
+Input :
+
+nums = {1, 2, 3, -2, 5}, k = 3  
+
+Output = 3  
+
+Test Case 02 :
+
+Input: nums = {1, 1, 1}, k = 2
+
+Output: 2
+
+Test Case 03 :
+
+Input: nums = {3, 4, 7, 2, -3, 1, 4, 2}, k = 7
+
+Output: 4
