@@ -1,0 +1,31 @@
+Problem Solving for the day - 06.09.2025 - Corporate questions
+
+You are given a classroom notice as a string. Your task is to find the longest word in the notice.If there are multiple words of the same maximum length, return the first occurring word.
+
+Test Case 01 :
+
+Input :
+
+notice = "Exam starts tomorrow"
+
+Output :
+
+Longest word = "tomorrow"
+
+Test Case 02 :
+
+notice = "Placement training ongoing"
+
+Output : 
+
+Longest word = "Placement"
+
+Test Case 03 :
+
+Input :
+
+notice = "cat dog bat"
+
+Output :
+
+Longest word = "cat"
