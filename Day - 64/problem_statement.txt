@@ -1,0 +1,34 @@
+Problem Solving for the day - 15.09.2025 - Corporate questions 
+
+Next Greater Frequency Element (NGFE)
+
+You are given an array of integers.
+
+For each element, find the next element to its right that has a higher frequency. If no such element exists, return -1.
+
+Constraints:
+
+Array length: 1 ≤ n ≤ 10^5
+
+Array elements: Integers (can be positive, negative, or zero)
+
+ Test Case 01 : 
+
+Input :
+
+[1, 1, 2, 3, 4, 2, 1]
+
+Output :
+
+[-1, -1, 1, 2, 2, 1, -1]
+
+
+ Test Case 02 : 
+
+Input :
+
+arr = [4, 4, 5, 2, 5, 5, 4]
+
+Output :
+
+[-1, -1, -1, 5, -1, -1, -1]
