@@ -1,0 +1,29 @@
+Problem Solving for the day - 11.09.2025 - Corporate questions
+
+You are implementing the Back and Forward functionality of a web browser using a Doubly Linked List.Each node represents a webpage (URL).
+
+Functionalities required:
+
+Visit a New Page – Add a new URL at the end (and clear forward history).
+
+Go Back – Move one step backward in the DLL.
+
+Go Forward – Move one step forward in the DLL.
+
+Show Current Page – Print the current page.
+
+Test Case :
+
+input :
+
+Visit: google.com
+Visit: youtube.com
+Back
+Show Current
+
+Output :
+
+Visited: google.com
+Visited: youtube.com
+Moved Back to: google.com
+Current Page: google.com
