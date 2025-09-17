@@ -1,0 +1,30 @@
+Problem Solving for the day - 12.09.2025 - Corporate questions
+
+Check if a Doubly Linked List is a Palindrome
+
+You are given a Doubly Linked List (DLL). Your task is to check whether the given DLL forms a palindrome sequence or not.
+
+A palindrome list reads the same forward and backward.
+
+Return true if the list is palindrome, otherwise return false.
+
+Test Case 1:
+
+Input:
+DLL = 1 ⇄ 2 ⇄ 3 ⇄ 2 ⇄ 1
+Output:
+true
+
+Test Case 2:
+
+Input:
+DLL = 10 ⇄ 20 ⇄ 30
+Output :
+false
+
+Test Case 3:
+
+Input:
+DLL = 1 ⇄ 2 ⇄ 2 ⇄ 1
+Output:
+true
