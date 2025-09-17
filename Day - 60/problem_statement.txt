@@ -1,0 +1,28 @@
+Problem Solving for the day - 10.09.2025 - Corporate questions
+
+Convert Sorted Array to Balanced BST
+
+You are given a sorted array of integers in ascending order.Your task is to convert it into a height-balanced Binary Search Tree (BST).
+
+Test Case 01 :
+
+Input: nums = [-10, -3, 0, 5, 9]
+
+output :
+
+       0
+     /   \
+   -3     9
+   /     /
+-10     5
+
+
+Test Case 02 :
+
+Input : nums = [1, 2, 3]
+
+Output : 
+
+     2
+   /   \
+  1     3
