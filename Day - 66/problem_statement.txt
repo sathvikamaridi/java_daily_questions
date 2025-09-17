@@ -1,0 +1,36 @@
+Problem Solving for the day - 17.09.2025 - Corporate question 
+
+You are given a Circular Linked List .
+
+Your task is to split the list into two halves:
+
+1.If the number of nodes is even, both halves will have an equal number of nodes.
+
+2.If the number of nodes is odd, the first half should contain one extra node.
+
+3.Both halves must remain circular linked lists.
+
+Finally, print both halves.
+
+Test Case 01 :
+
+Input :
+
+Circular Linked List: 10 → 20 → 30 → 40 → 50 → 60 (circular)
+
+Output :
+
+First Half: 10 20 30 
+Second Half: 40 50 60
+
+
+Test Case 02 :
+
+Input :
+
+Circular Linked List: 1 → 2 → 3 → 4 → 5 (circular)
+
+Output :
+
+First Half: 1 2 3 
+Second Half: 4 5
