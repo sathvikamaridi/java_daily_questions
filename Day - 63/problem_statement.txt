@@ -1,0 +1,24 @@
+Problem Solving for the day - 13.09.2025 - Corporate questions
+
+Given a string, remove all adjacent duplicates using a stack.Keep removing characters if two adjacent characters are the same.Continue until no adjacent duplicates remain.
+
+Test Case 01 :
+
+Input :
+"abbaca"
+Output :
+"ca"
+
+Test Case 02 :
+
+Input :
+azxxzy
+Output :
+ay
+
+Test Case 03 :
+
+Input :
+aabbcc
+Output :
+""
