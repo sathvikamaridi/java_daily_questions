@@ -1,0 +1,18 @@
+Problem Solving for the day - 18.09.2025 - Corporate question 
+
+Given a string s, return the longest substring that appears at least twice.If no such substring exists, return an empty string.
+
+Test Case 01 :
+
+Input: banana
+Output: ana
+
+Test Case 02 :
+
+Input: abcd
+Output: 
+
+Test Case 03 :
+
+Input: mississippi
+Output: issi
