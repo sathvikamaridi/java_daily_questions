@@ -1,0 +1,26 @@
+Problem Solving for the day - 19.09.2025 - Corporate question 
+
+Given an array of integers and a value x, find the length of the smallest subarray whose sum is greater than x. If no such subarray exists, return 0.
+
+Test Case 01 :
+
+Input :
+
+arr = [1, 4, 45, 6, 10, 19]
+x = 51
+
+Output :
+
+Smallest subarray length = 3
+
+
+Test Case 02 :
+
+input :
+
+arr = [1, 10, 5, 2, 7]
+x = 9
+
+Output :
+
+Smallest subarray length = 1
