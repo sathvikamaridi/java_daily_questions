@@ -1,0 +1,37 @@
+Problem Solving  for the day - 20.09.2025  - Corporate  Question 
+
+Write a Java program that:
+
+1.⁠ ⁠Reads an array of integers from the user.
+2.⁠ ⁠Separates the array into two new arrays:
+
+•⁠  ⁠One containing all the even numbers.
+
+•⁠  ⁠One containing all the odd numbers.
+
+3.Prints both the even and odd arrays.
+
+ Test Case 01 : 
+
+ Input :
+
+10
+
+5 12 3 8 7 6 9 2 10 1
+
+ Output :
+
+Even elements: 12 8 6 2 10
+Odd elements: 5 3 7 9 1
+
+ Test Case 02 : 
+
+ Input : 
+6
+
+11 4 13 22 9 18
+
+ Output : 
+
+Even elements: 4 22 18
+Odd elements: 11 13 9
