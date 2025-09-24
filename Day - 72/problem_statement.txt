@@ -1,0 +1,23 @@
+Problem Solving for the day - 24.09.2025  - Corporate  Question
+
+Word Segmentation Problem
+
+Given a string s and a list of words in a dictionary, determine if the string can be segmented into one or more valid dictionary words.
+
+Test Case 01 :
+
+Input:
+s = "pineapplepenapple"
+dict = ["apple", "pen", "applepen", "pine", "pineapple"]
+
+Output:
+true
+
+Test Case 02 :
+
+Input:
+s = "catsandog"
+dict = ["cats", "dog", "sand", "and", "cat"]
+
+Output:
+false
