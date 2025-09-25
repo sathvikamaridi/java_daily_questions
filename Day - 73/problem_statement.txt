@@ -1,0 +1,42 @@
+Problem Solving for the day - 25.09.2025  - Corporate  Question
+
+You are given a sorted and rotated array of distinct integers and a target sum.Your task is to determine if there exists a pair of elements in the array whose sum equals the given target.
+
+A sorted and rotated array means it was originally sorted in increasing order but then rotated at some pivot point.
+
+For example:
+
+Sorted array: [6, 8, 9, 10, 11, 15]  ||  Rotated → [11, 15, 6, 8, 9, 10].
+
+Input:
+
+An integer array arr[] (sorted and rotated).
+
+An integer target (the sum to find).
+
+Output:
+
+Print "Pair Found: (x, y)" if such a pair exists.
+
+Print "No pair found" if no such pair exists.
+
+If multiple pairs exist, return the first pair found during the two-pointer traversal.
+
+
+Test Case 01 :
+
+Input:
+arr = [11, 15, 6, 8, 9, 10]
+target = 16
+
+Output:
+Pair Found: (6, 10)
+
+Test Case 02 :
+
+Input:
+arr = [4, 5, 6, 7, 1, 2, 3]
+target = 9
+
+Output:
+Pair Found: (6, 3)
