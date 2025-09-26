@@ -1,0 +1,19 @@
+Problem Solving  for the day - 26.09.2025 - Corporate Question
+
+Given a singly linked list, write a Java program to determine whether the linked list is a palindrome. A linked list is a palindrome if it reads the same forwards and backwards.
+
+Constraints:
+
+The linked list contains 1 to 10^5 nodes.
+
+Node values are integers.
+
+Test Case 01 :
+
+Input: 1 -> 2 -> 3 -> 2 -> 1
+Output: true
+
+Test Case 02 :
+
+Input: 1 -> 2 -> 3 -> 4 -> 5
+Output: false
