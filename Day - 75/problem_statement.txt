@@ -1,0 +1,15 @@
+Problem Solving for the day - 27.09.2025 - Corporate Question 
+
+Given a positive integer n, write a Java program to find the second largest digit in the number.
+
+If there is no second largest digit (i.e., all digits are the same or only one unique digit), return -1.
+
+ Test Case 1 :
+
+Input: 983461
+Output: 8
+
+ Test Case 2: 
+
+Input: 1111
+Output: -1
