@@ -1,0 +1,10 @@
+Problem Solving for the day - 29.09.2025 - Corporate Question* 
+
+Create a Singly Linked List
+
+  A.Insert At Beginning (10,5)
+  B.Insert At End (20,25)
+  C.Insert At Specific Position (15 at Position 3 )
+  D.Delete At Beginning 
+  E.Delete At End 
+  F.Delete At Specific Position (Position 2 )
