@@ -1,0 +1,32 @@
+Problem Solving for the day - 30.09.2025 - Corporate Question 
+
+Write a Java program to detect and remove a loop in a singly linked list.
+
+A loop exists in a linked list if a node’s next pointer points to a previously visited node instead of null.
+
+Your program should first check if a loop exists, and if found, remove the loop so the list becomes a proper singly linked list.
+
+Test Case 01:
+
+Input:
+Linked List: 1 -> 2 -> 3 -> 4 -> 5 -> 3 (back to node 3)
+
+Output (after removing loop):
+1 -> 2 -> 3 -> 4 -> 5 -> null
+
+
+Test Case 02 :
+
+Input:
+Linked List: 10 -> 20 -> 30 -> 40 -> null (no loop)
+
+Output:
+10 -> 20 -> 30 -> 40 -> null
+
+Test Case 03 :
+
+Input:
+Linked List: 7 -> 14 -> 21 -> 7 (back to head)
+
+Output (after removing loop):
+7 -> 14 -> 21 -> null
