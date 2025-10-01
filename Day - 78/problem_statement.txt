@@ -1,0 +1,21 @@
+Problem Solving for the day - 01.10.2025 - Corporate Question 
+
+Write a Java program to find the Previous Greater Element (PGE) for each element in an array.
+
+The Previous Greater Element for an element arr[i] is the nearest element on its left that is greater than arr[i].If no such element exists, print -1 for that position.
+
+Test Case 01:
+
+Input:
+arr = [10, 4, 2, 20, 40, 12, 30]
+
+Output:
+[-1, 10, 4, -1, -1, 40, 40]
+
+Test Case 02:
+
+Input:
+arr = [3, 2, 1]
+
+Output:
+[-1, 3, 2]
